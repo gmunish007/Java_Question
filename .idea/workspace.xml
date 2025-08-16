@@ -27,6 +27,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnagramChecker.executor": "Run",
     "Application.StringPalindrome.executor": "Run",
     "Application.StringReverse.executor": "Run",
     "Application.StringReverseWithNoSpaces.executor": "Run",
