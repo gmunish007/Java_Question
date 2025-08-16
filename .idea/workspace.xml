@@ -30,6 +30,7 @@
     "Application.StringPalindrome.executor": "Run",
     "Application.StringReverse.executor": "Run",
     "Application.StringReverseWithNoSpaces.executor": "Run",
+    "Application.SwapTwoNumWithoutThirdVar.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
