@@ -1,6 +1,6 @@
 // String reverse by removing spaces between them
-// 1. remove spaces between them
-// 2. reverse the string
+// 1. Remove spaces between them
+// 2. Reverse the string
 
 public class StringReverseWithNoSpaces {
 
