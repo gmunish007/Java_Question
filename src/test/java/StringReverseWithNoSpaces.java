@@ -22,15 +22,15 @@ public class StringReverseWithNoSpaces {
 
         String s = "hello workd";
         String str = removeSpace(s);
-        System.out.println("String after no spaces:" +str);
+        System.out.println("String after no spaces:" + str);
 
         String revStr = " ";
         char revCh;
 
-        for(int i=0; i<str.length(); i++){
+        for (int i = 0; i < str.length(); i++) {
             revCh = str.charAt(i);
-            revStr = revCh+revStr;
+            revStr = revCh + revStr;
         }
-        System.out.println("Reversed String:"+revStr);
+        System.out.println("Reversed String:" + revStr);
     }
 }

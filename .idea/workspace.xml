@@ -17,9 +17,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="31HRsMlM5TKwbiuCXHvo82cP94k" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,6 +27,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.StringPalindrome.executor": "Run",
     "Application.StringReverse.executor": "Run",
     "Application.StringReverseWithNoSpaces.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
