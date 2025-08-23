@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Loan Department">
+
+    <!-- Since this is defined at suite level, it will be applicable for all classes -->
+    <parameter name="url" value="https://www.google.com" />
+    <parameter name="fname" value="munish" />
+
+    <test name="parameters">
+        <classes>
+            <class name="TestNg.TataNgParameters"/>
+        </classes>
+    </test>
+</suite>

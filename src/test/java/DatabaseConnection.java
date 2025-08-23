@@ -46,12 +46,14 @@ public class DatabaseConnection {
             resultSet = statement.executeQuery(query);
 
             // iterate through resultSet and print table details
-            int empID = resultSet.getInt("empId");
-            String fname = resultSet.getString("fName");
-            String lname = resultSet.getString("lName");
+            while (resultSet.next()) {
+                int empID = resultSet.getInt("empId");
+                String fname = resultSet.getString("fName");
+                String lname = resultSet.getString("lName");
 
-            // print emp details
-            System.out.println("First name :" + fname + " and last name: " + lname + " with emp id :" + empID);
+                // print emp details
+                System.out.println("First name :" + fname + " and last name: " + lname + " with emp id :" + empID);
+            }
 
         } catch (Exception error) {
             error.printStackTrace();

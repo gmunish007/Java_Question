@@ -17,6 +17,12 @@
       </list>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/DatabaseConnection.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -35,31 +41,89 @@
     "Application.StringReverseWithSpaces.executor": "Run",
     "Application.SwapTwoNumWithoutThirdVar.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/DataProviderTestng.xml.executor": "Run",
+    "TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/Listeners.xml.executor": "Run",
+    "TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/ParametersTestng.xml.executor": "Run",
+    "TestNG.D:/Testing/Projects/InterviewQuestions/testng.xml.executor": "Run",
+    "TestNG.TestNgDepends.priyanka.executor": "Run",
+    "TestNG.TestngListeners.executor": "Run",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringReverseWithSpaces">
-    <configuration name="StringReverseWithNoSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringReverseWithNoSpaces" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Testing\Projects\InterviewQuestions\src\test\java\TestNg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestngListeners">
+    <configuration name="D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/DataProviderTestng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="InterviewQuestions" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/TestNg/DataProviderTestng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringReverseWithSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringReverseWithSpaces" />
+    <configuration name="D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/Listeners.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="InterviewQuestions" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/TestNg/Listeners.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/ParametersTestng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterviewQuestions" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/TestNg/ParametersTestng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Testing/Projects/InterviewQuestions/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterviewQuestions" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestngListeners" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterviewQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNg" />
+      <option name="MAIN_CLASS_NAME" value="TestNg.TestngListeners" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringReverseWithSpaces" />
-        <item itemvalue="Application.StringReverseWithNoSpaces" />
+        <item itemvalue="TestNG.TestngListeners" />
+        <item itemvalue="TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/Listeners.xml" />
+        <item itemvalue="TestNG.D:/Testing/Projects/InterviewQuestions/testng.xml" />
+        <item itemvalue="TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/DataProviderTestng.xml" />
+        <item itemvalue="TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/ParametersTestng.xml" />
       </list>
     </recent_temporary>
   </component>

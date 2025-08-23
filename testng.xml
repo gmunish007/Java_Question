@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Loan Department">
+
+    <!-- adding priority classes -->
+    <!--    <test verbose="2" preserve-order="true" name="Priority">-->
+    <!--        <classes>-->
+    <!--            <class name="TestNg.TestNgPriority" />-->
+    <!--        </classes>-->
+    <!--    </test>-->
+
+    <!--#################################-->
+
+    <!--    <test name="Personal Loan">-->
+    <!--        <classes>-->
+    <!--            <class name="TestNg.TestNgAnnotations_1">-->
+    <!--                <methods>-->
+    <!--                    <include name="method_1" />-->
+    <!--                </methods>-->
+    <!--            </class>-->
+    <!--            <class name="TestNg.TestNgAnnotations_2">-->
+    <!--                <methods>-->
+    <!--                    <exclude name="method_6" />-->
+    <!--                </methods>-->
+    <!--            </class>-->
+    <!--        </classes>-->
+    <!--    </test>-->
+
+    <!--#########################-->
+
+    <!-- adding group by -->
+    <!--    <test name="groupBy">-->
+    <!--        <groups>-->
+    <!--            <run>-->
+    <!--                <include name="family2" />-->
+    <!--            </run>-->
+    <!--        </groups>-->
+    <!--        <classes>-->
+    <!--            <class name="TestNg.TestNgGroups" />-->
+    <!--        </classes>-->
+    <!--    </test>-->
+
+    <!--##########################3-->
+
+    <!-- add dependsOnMethods classes -->
+    <!--    <test name="dependsOnMethods">-->
+    <!--        <classes>-->
+    <!--            <class name="TestNg.TestNgDepends" />-->
+    <!--        </classes>-->
+    <!--    </test>-->
+
+    <!--##########################3-->
+
+    <!-- add dependsOnGroups classes -->
+    <test name="dependsOnGroups">
+        <groups>
+            <run>
+                <include name="sanity" />
+                <include name="regression" />
+            </run>
+        </groups>
+        <classes>
+            <class name="TestNg.TestNgDepends"/>
+        </classes>
+    </test>
+</suite>
