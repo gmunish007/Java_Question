@@ -1,3 +1,5 @@
+package TestNg.JavaQuestions;
+
 import java.util.Arrays;
 
 public class AnagramChecker {

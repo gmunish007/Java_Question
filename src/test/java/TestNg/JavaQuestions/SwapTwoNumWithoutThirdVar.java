@@ -1,3 +1,5 @@
+package TestNg.JavaQuestions;
+
 public class SwapTwoNumWithoutThirdVar {
 
     public static void main(String[] args) {

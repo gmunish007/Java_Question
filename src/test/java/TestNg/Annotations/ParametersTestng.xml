@@ -8,7 +8,7 @@
 
     <test name="parameters">
         <classes>
-            <class name="TestNg.TataNgParameters"/>
+            <class name="TestNg.Annotations.TataNgParameters"/>
         </classes>
     </test>
 </suite>

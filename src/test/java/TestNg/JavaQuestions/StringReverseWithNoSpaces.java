@@ -1,4 +1,4 @@
-// String reverse by removing spaces between them
+package TestNg.JavaQuestions;// String reverse by removing spaces between them
 // 1. Remove spaces between them
 // 2. Reverse the string
 

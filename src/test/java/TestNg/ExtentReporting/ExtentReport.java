@@ -1,4 +1,4 @@
-package TestNg;
+package TestNg.ExtentReporting;
 
 import com.aventstack.extentreports.ExtentReports;
 import org.openqa.selenium.WebDriver;

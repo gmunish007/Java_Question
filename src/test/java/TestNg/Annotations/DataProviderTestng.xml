@@ -3,7 +3,7 @@
 <suite name="Loan Department">
     <test name="Data Provider">
         <classes>
-            <class name="TestNg.TestNgDataProvider"/>
+            <class name="TestNg.Annotations.TestNgDataProvider"/>
         </classes>
     </test>
 </suite>

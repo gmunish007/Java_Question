@@ -1,3 +1,5 @@
+package TestNg.JavaQuestions;
+
 public class FreqOfEachCharInString {
 
     public static void freqString(String str) {

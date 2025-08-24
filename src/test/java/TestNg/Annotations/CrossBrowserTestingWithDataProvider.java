@@ -1,4 +1,4 @@
-package TestNg;
+package TestNg.Annotations;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;

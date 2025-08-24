@@ -5,7 +5,7 @@
     <!-- adding priority classes -->
         <test verbose="2" preserve-order="true" name="Priority">
             <classes>
-                <class name="TestNg.TestNgPriority" />
+                <class name="TestNg.Annotations.TestNgPriority" />
             </classes>
         </test>
 
@@ -13,12 +13,12 @@
 
         <test name="Personal Loan">
             <classes>
-                <class name="TestNg.TestNgAnnotations_1">
+                <class name="TestNg.Annotations.TestNgAnnotations_1">
                     <methods>
                         <include name="method_1" />
                     </methods>
                 </class>
-                <class name="TestNg.TestNgAnnotations_2">
+                <class name="TestNg.Annotations.TestNgAnnotations_2">
                     <methods>
                         <exclude name="method_6" />
                     </methods>
@@ -36,7 +36,7 @@
                 </run>
             </groups>
             <classes>
-                <class name="TestNg.TestNgGroups" />
+                <class name="TestNg.Annotations.TestNgGroups" />
             </classes>
         </test>
 
@@ -45,7 +45,7 @@
     <!-- add dependsOnMethods classes -->
         <test name="dependsOnMethods">
             <classes>
-                <class name="TestNg.TestNgDepends" />
+                <class name="TestNg.Annotations.TestNgDepends" />
             </classes>
         </test>
 
@@ -60,7 +60,7 @@
             </run>
         </groups>
         <classes>
-            <class name="TestNg.TestNgDepends"/>
+            <class name="TestNg.Annotations.TestNgDepends"/>
         </classes>
     </test>
 </suite>

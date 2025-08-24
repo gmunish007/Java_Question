@@ -53,7 +53,7 @@
     "TestNG.TestngListeners.executor": "Run",
     "TestNG.getDataFromProperties.executor": "Run",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg",
+    "last_opened_file_path": "D:/Testing/Projects/OpencartWithoutTestNG",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -63,13 +63,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Testing\Projects\InterviewQuestions\src\test\java\TestNg" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Testing\Projects\InterviewQuestions\src\test\java\TestNg\Annotations" />
+      <recent name="D:\Testing\Projects\InterviewQuestions\src\test\java\TestNg\Selenium" />
+    </key>
   </component>
   <component name="RunManager" selected="TestNG.ExtentReport">
     <configuration name="CrossBrowserTestingWithDataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestNg.*" />
+          <option name="PATTERN" value="TestNg.ExtentReporting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +110,12 @@
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestNg.*" />
+          <option name="PATTERN" value="TestNg.ExtentReporting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="TestNg" />
-      <option name="MAIN_CLASS_NAME" value="TestNg.ExtentReport" />
+      <option name="MAIN_CLASS_NAME" value="TestNg.ExtentReporting.ExtentReport" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -123,12 +127,12 @@
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestNg.*" />
+          <option name="PATTERN" value="TestNg.ExtentReporting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="TestNg" />
-      <option name="MAIN_CLASS_NAME" value="TestNg.getDataFromProperties" />
+      <option name="MAIN_CLASS_NAME" value="TestNg.Selenium.getDataFromProperties" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />

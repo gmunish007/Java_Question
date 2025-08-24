@@ -1,4 +1,4 @@
-// A string is said to be palindrome if the reverse of string is same as original
+package TestNg.JavaQuestions;// A string is said to be palindrome if the reverse of string is same as original
 
 public class StringPalindrome {
 
