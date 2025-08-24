@@ -40,11 +40,15 @@
     "Application.StringReverseWithNoSpaces.executor": "Run",
     "Application.StringReverseWithSpaces.executor": "Run",
     "Application.SwapTwoNumWithoutThirdVar.executor": "Run",
+    "Maven.InterviewQuestions [package].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.CrossBrowserTestingWithDataProvider.executor": "Run",
+    "TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/CrossBrowserWithParameter.xml.executor": "Run",
     "TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/DataProviderTestng.xml.executor": "Run",
     "TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/Listeners.xml.executor": "Run",
     "TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/ParametersTestng.xml.executor": "Run",
     "TestNG.D:/Testing/Projects/InterviewQuestions/testng.xml.executor": "Run",
+    "TestNG.ExtentReport.executor": "Run",
     "TestNG.TestNgDepends.priyanka.executor": "Run",
     "TestNG.TestngListeners.executor": "Run",
     "TestNG.getDataFromProperties.executor": "Run",
@@ -60,20 +64,27 @@
       <recent name="D:\Testing\Projects\InterviewQuestions\src\test\java\TestNg" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.getDataFromProperties">
-    <configuration name="D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/DataProviderTestng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ExtentReport">
+    <configuration name="CrossBrowserTestingWithDataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="InterviewQuestions" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/TestNg/DataProviderTestng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNg" />
+      <option name="MAIN_CLASS_NAME" value="TestNg.CrossBrowserTestingWithDataProvider" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/Listeners.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/CrossBrowserWithParameter.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="InterviewQuestions" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/TestNg/Listeners.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/TestNg/CrossBrowserWithParameter.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -91,7 +102,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestngListeners" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExtentReport" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
@@ -100,7 +111,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="TestNg" />
-      <option name="MAIN_CLASS_NAME" value="TestNg.TestngListeners" />
+      <option name="MAIN_CLASS_NAME" value="TestNg.ExtentReport" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -127,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ExtentReport" />
+        <item itemvalue="TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/CrossBrowserWithParameter.xml" />
+        <item itemvalue="TestNG.CrossBrowserTestingWithDataProvider" />
         <item itemvalue="TestNG.getDataFromProperties" />
         <item itemvalue="TestNG.D:/Testing/Projects/InterviewQuestions/testng.xml" />
-        <item itemvalue="TestNG.TestngListeners" />
-        <item itemvalue="TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/Listeners.xml" />
-        <item itemvalue="TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/DataProviderTestng.xml" />
       </list>
     </recent_temporary>
   </component>
