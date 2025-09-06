@@ -11,7 +11,7 @@ public class IRetryAnalyzer implements org.testng.IRetryAnalyzer {
     public boolean retry(ITestResult result) {
         if(count<maxTry){
             count++;
-            return true; //it will run till this true. Meansing as long as your test is failing it will return true.
+            return true; //it will run till this true. Meaning as long as your test is failing it will return true.
         }
         return false;
     }
@@ -22,6 +22,5 @@ public class IRetryAnalyzer implements org.testng.IRetryAnalyzer {
 //
 //    @Test(retryAnalyzer=IRetryAnalyzer.class)
 //    public void reRun(){
-//
 //    }
 //}

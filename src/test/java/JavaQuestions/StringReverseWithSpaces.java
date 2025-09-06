@@ -1,4 +1,6 @@
-package TestNg.JavaQuestions;// Reverse String while keeping spaces
+package JavaQuestions;
+// Reverse String while keeping spaces
+// reverse hello world to dlrow olleh
 
 public class StringReverseWithSpaces {
 

@@ -1,4 +1,4 @@
-package TestNg.JavaQuestions;
+package JavaQuestions;
 
 import java.util.Arrays;
 
