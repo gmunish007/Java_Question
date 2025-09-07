@@ -13,7 +13,7 @@ public class Second_largest_value {
         }
         System.out.println("Largest number in array: " + tempNum);
         for(int i=0; i<num.length; i++){
-            if(sMax<num[i] && tempNum>num[i]){
+            if(0<num[i] && tempNum>num[i]){
                 sMax = num[i];
             }
         }

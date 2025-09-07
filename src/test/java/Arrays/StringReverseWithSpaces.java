@@ -1,4 +1,4 @@
-package JavaQuestions;
+package Arrays;
 // Reverse String while keeping spaces
 // reverse hello world to dlrow olleh
 
@@ -8,10 +8,8 @@ public class StringReverseWithSpaces {
 
         String word = "Hello world";
         String str =" ";
-        char ch;
         for(int i=0; i<word.length(); i++){
-            ch = word.charAt(i);
-            str = ch+str;
+            str = word.charAt(i)+str;
         }
         System.out.print(str);
     }

@@ -1,8 +1,8 @@
 package Arrays;
 
-// reverse an array without using third array
+// reverse an array using third array
 
-public class ReverseArray_using_SecondArray {
+public class Reverse_IntArray_using_SecondArray {
     public static int[] reverse(int[] num) {
         int numLen = num.length;
         int[] temp = new int[numLen];

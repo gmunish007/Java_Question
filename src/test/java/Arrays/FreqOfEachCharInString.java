@@ -1,4 +1,4 @@
-package JavaQuestions;
+package Arrays;
 
 public class FreqOfEachCharInString {
 

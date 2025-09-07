@@ -1,9 +1,9 @@
 package Arrays;
 
-public class ReverseArray_withoutUsing_SecondArray {
+public class Reverse_IntArray_withoutUsing_SecondArray {
     public static int[] revNumMethod(int[] num) {
         int numLen = num.length;
-        int i = 0, j = num.length - 1;
+        int i = 0, j = num.length - 1, temp=0;
 
         // same implementation can be done using while loop
 //        while(i<j){
@@ -14,7 +14,7 @@ public class ReverseArray_withoutUsing_SecondArray {
 //            j--;
 //        }
         for (; i < j; i++, j--) {
-            int temp = num[i];
+            temp = num[i];
             num[i] = num[j];
             num[j] = temp;
         }

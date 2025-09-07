@@ -2,7 +2,7 @@ package JavaQuestions;
 
 import java.util.Arrays;
 
-public class Second_Smallest_And_Largest_Number {
+public class Second_Smallest_And_Second_Largest_Number {
     public static void main(String[] args) {
         int[] num = {1, 3, 5, 7, 2};
         Arrays.sort(num);
