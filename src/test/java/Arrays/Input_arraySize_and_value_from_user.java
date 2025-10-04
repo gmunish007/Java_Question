@@ -9,14 +9,14 @@ public class Input_arraySize_and_value_from_user {
         System.out.println("Input array size: ");
         int arraySize = sc.nextInt();
         int[] num = new int[arraySize];
-        int numLen = num.length;
 
-        for (int i = 0; i < numLen; i++) {
+        for (int i = 0; i < arraySize; i++) {
             System.out.print("Input Array num: ");
             num[i] = sc.nextInt();
         }
         return num;
     }
+
     public static void main(String[] args){
         int[] newNum = arrayNum();
         for(int i=0; i<newNum.length; i++){

@@ -6,8 +6,8 @@ public class StringReverseWithSpaces {
 
     public static void main(String[] args){
 
-        String word = "Hello world";
-        String str =" ";
+        String word = "Hello";
+        String str ="";
         for(int i=0; i<word.length(); i++){
             str = word.charAt(i)+str;
         }

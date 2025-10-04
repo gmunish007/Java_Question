@@ -1,12 +1,10 @@
 package Arrays;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 // search for a number in Array and print its index and the number
 
 public class Search_for_num_and_print_its_index {
-
     public static void marks() {
 
         Scanner sc = new Scanner(System.in);
@@ -37,9 +35,6 @@ public class Search_for_num_and_print_its_index {
         if (flag == false) {
             System.out.println("not found.");
         }
-        //else{
-        //   System.out.println("found it.");
-        //}
     }
 
     public static void main(String[] args) {

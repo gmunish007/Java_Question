@@ -2,27 +2,24 @@ package JavaQuestions;// A string is said to be palindrome if the reverse of str
 
 public class StringPalindrome {
 
-    public static String stringPal(String s){
-        String str ="";
-        char ch;
-
-        for(int i=0; i<s.length(); i++){
-            str=s.charAt(i)+str;
+    public static String stringPal(String s) {
+        String str = "";
+        for (int i = 0; i < s.length(); i++) {
+            str = s.charAt(i) + str;
             //str=ch+str;
         }
-        System.out.println("Reversed String: "+str);
+        System.out.println("Reversed String: " + str);
         return str;
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         String originalStr = "1234301";
         String reverseStr = stringPal(originalStr);
 
-        if(originalStr.equalsIgnoreCase(reverseStr)){
+        if (originalStr.equalsIgnoreCase(reverseStr)) {
             System.out.println("String is palindrome!");
-        }
-        else{
+        } else {
             System.out.println("String is not palindrome!");
         }
     }

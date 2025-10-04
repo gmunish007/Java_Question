@@ -39,14 +39,19 @@
     "Application.FreqOfEachCharInString.executor": "Run",
     "Application.Input_arraySize_and_value_from_user.executor": "Run",
     "Application.Int_to_String.executor": "Run",
+    "Application.Integer_Duplicate_Elements.executor": "Run",
+    "Application.Occurrence_of_each_character.executor": "Run",
+    "Application.Palindrome_Integer.executor": "Run",
     "Application.ReverseArray.executor": "Run",
     "Application.ReverseArray_using_SecondArray.executor": "Run",
     "Application.ReverseArray_withoutUsing_SecondArray.executor": "Run",
+    "Application.Reverse_IntArray_withoutUsing_SecondArray.executor": "Run",
     "Application.RotateArray_by_K_steps.executor": "Run",
     "Application.RotateArray_by_K_steps_using_thirdArray.executor": "Run",
     "Application.Sample.executor": "Run",
     "Application.Search_for_num_and_print_its_index.executor": "Run",
     "Application.Second_Smallest_And_Largest_Number.executor": "Run",
+    "Application.Second_largest_integer.executor": "Run",
     "Application.Second_largest_value.executor": "Run",
     "Application.Smallest_Number.executor": "Run",
     "Application.StringArray_to_charArray.executor": "Run",
@@ -59,10 +64,14 @@
     "Application.Sum_of_all_elements_in_Array.executor": "Run",
     "Application.Sum_of_twoNum_equal_to_userNumber.executor": "Run",
     "Application.SwapTwoNumWithoutThirdVar.executor": "Run",
+    "Application.find_power_of_2_of_number.executor": "Run",
+    "Application.if_num_is_power_of_2.executor": "Run",
     "Application.max_value.executor": "Run",
     "Application.no_of_element_greaterThan_UserNumber.executor": "Run",
     "Application.print_index_for_given_number.executor": "Run",
     "Application.swap_num_position_inArray.executor": "Run",
+    "Application.unique_characters.executor": "Run",
+    "Application.windowSwitch.executor": "Run",
     "Cucumber Java.Feature: DataTable.executor": "Run",
     "Cucumber Java.Feature: login.executor": "Run",
     "Cucumber Java.Scenario: Testing login page.executor": "Run",
@@ -101,9 +110,9 @@
       <recent name="Cucumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.String_DuplicateElements">
-    <configuration name="AnagramChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaQuestions.AnagramChecker" />
+  <component name="RunManager" selected="Application.Palindrome_Integer">
+    <configuration name="Palindrome_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaQuestions.Palindrome_Integer" />
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
@@ -115,21 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Integer_Duplicate_Elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Integer_Duplicate_Elements" />
-      <module name="InterviewQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Second_Smallest_And_Second_Largest_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaQuestions.Second_Smallest_And_Second_Largest_Number" />
+    <configuration name="find_power_of_2_of_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaQuestions.find_power_of_2_of_number" />
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
@@ -141,8 +137,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_DuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.String_DuplicateElements" />
+    <configuration name="if_num_is_power_of_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaQuestions.if_num_is_power_of_2" />
+      <module name="InterviewQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unique_characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.unique_characters" />
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
@@ -154,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum_of_twoNum_equal_to_userNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Sum_of_twoNum_equal_to_userNumber" />
+    <configuration name="windowSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selenium.windowSwitch" />
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.String_DuplicateElements" />
-        <item itemvalue="Application.Integer_Duplicate_Elements" />
-        <item itemvalue="Application.Second_Smallest_And_Second_Largest_Number" />
-        <item itemvalue="Application.AnagramChecker" />
-        <item itemvalue="Application.Sum_of_twoNum_equal_to_userNumber" />
+        <item itemvalue="Application.Palindrome_Integer" />
+        <item itemvalue="Application.windowSwitch" />
+        <item itemvalue="Application.find_power_of_2_of_number" />
+        <item itemvalue="Application.if_num_is_power_of_2" />
+        <item itemvalue="Application.unique_characters" />
       </list>
     </recent_temporary>
   </component>

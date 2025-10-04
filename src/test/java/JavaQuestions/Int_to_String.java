@@ -1,6 +1,5 @@
 package JavaQuestions;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Int_to_String {

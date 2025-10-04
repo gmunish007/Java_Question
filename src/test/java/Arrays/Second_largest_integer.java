@@ -1,8 +1,8 @@
 package Arrays;
 
-public class Second_largest_value {
+public class Second_largest_integer {
     public static void main(String[] args) {
-        int[] num = {10, 3, 5, 7, 9, 34, 56, 67};
+        int[] num = {10, 3, 5, 7, 9, 34, 56, 0, 67};
         int tempNum = 0;
         int sMax = 0;
 
@@ -13,7 +13,7 @@ public class Second_largest_value {
         }
         System.out.println("Largest number in array: " + tempNum);
         for(int i=0; i<num.length; i++){
-            if(0<num[i] && tempNum>num[i]){
+            if(sMax<num[i] && tempNum>num[i]){
                 sMax = num[i];
             }
         }

@@ -1,4 +1,4 @@
-package TestNg.Selenium;
+package Selenium;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;

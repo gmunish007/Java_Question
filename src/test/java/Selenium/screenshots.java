@@ -1,4 +1,4 @@
-package TestNg.Selenium;
+package Selenium;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
