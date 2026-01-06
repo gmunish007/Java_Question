@@ -19,19 +19,16 @@ public class test_login {
 //        Thread.sleep(10000);
 //    }
 
-
 //    @When("^User is on login page with (.+) and (.+) using Examples$")
 //    public void user_is_on_login_page_with_and_using_examples(String string, String string2) {
 //        System.out.println("Username with example: "+string);
 //        System.out.println("Password with example: "+string2);
 //    }
 //
-//
 //    @Given("user enters username {string} and password {string} on page without using Data Table or Example")
 //    public void userEntersUsernameAndPasswordOnPageWithoutUsingDataTableOrExample(String user, String pwd) {
 //        System.out.println("Username without Data Table and Examples: "+user+" : "+pwd);
 //    }
-
 
     @Given("User is on login page with multiple username and passwords using DataTables")
     public void userIsOnLoginPageWithMultipleUsernameAndPasswordsUsingDataTables(DataTable dataTable) {
@@ -41,7 +38,6 @@ public class test_login {
         for(List<String> data:dataSet){
             System.out.println(data);
         }
-
 
         // print munish without using for()
         //System.out.println(dataSet.get(0).get(0));

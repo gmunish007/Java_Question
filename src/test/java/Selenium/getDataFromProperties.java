@@ -13,7 +13,7 @@ public class getDataFromProperties {
     @Test
     public void getData() throws IOException {
         Properties ps = new Properties();
-        FileInputStream fs = new FileInputStream("D:\\Testing\\Projects\\InterviewQuestions\\src\\test\\java\\TestData.properties");
+        FileInputStream fs = new FileInputStream("D:\\Testing\\Projects\\InterviewQuestions\\src\\test\\java\\Selenium\\TestData.properties");
         ps.load(fs);
 
         WebDriver driver = new ChromeDriver();

@@ -36,12 +36,18 @@
     "Application.AnagramChecker.executor": "Run",
     "Application.Duplicate_Elements.executor": "Run",
     "Application.Each_String_Reverse.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.First_Non_Repeating_Char_in_String.executor": "Run",
     "Application.FreqOfEachCharInString.executor": "Run",
     "Application.Input_arraySize_and_value_from_user.executor": "Run",
     "Application.Int_to_String.executor": "Run",
     "Application.Integer_Duplicate_Elements.executor": "Run",
+    "Application.Merge_two_arrays.executor": "Run",
     "Application.Occurrence_of_each_character.executor": "Run",
     "Application.Palindrome_Integer.executor": "Run",
+    "Application.Palindrome_Substrings_count.executor": "Run",
+    "Application.Permutation_of_String.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
     "Application.ReverseArray.executor": "Run",
     "Application.ReverseArray_using_SecondArray.executor": "Run",
     "Application.ReverseArray_withoutUsing_SecondArray.executor": "Run",
@@ -51,8 +57,10 @@
     "Application.Sample.executor": "Run",
     "Application.Search_for_num_and_print_its_index.executor": "Run",
     "Application.Second_Smallest_And_Largest_Number.executor": "Run",
+    "Application.Second_Smallest_And_Second_Largest_Number.executor": "Run",
     "Application.Second_largest_integer.executor": "Run",
     "Application.Second_largest_value.executor": "Run",
+    "Application.ShiftCharacters.executor": "Run",
     "Application.Smallest_Number.executor": "Run",
     "Application.StringArray_to_charArray.executor": "Run",
     "Application.StringPalindrome.executor": "Run",
@@ -63,7 +71,11 @@
     "Application.String_to_charArray.executor": "Run",
     "Application.Sum_of_all_elements_in_Array.executor": "Run",
     "Application.Sum_of_twoNum_equal_to_userNumber.executor": "Run",
+    "Application.Sum_of_two_Arrays.executor": "Run",
     "Application.SwapTwoNumWithoutThirdVar.executor": "Run",
+    "Application.Vowel_problem.executor": "Run",
+    "Application.actionClass.executor": "Run",
+    "Application.filter.executor": "Run",
     "Application.find_power_of_2_of_number.executor": "Run",
     "Application.if_num_is_power_of_2.executor": "Run",
     "Application.max_value.executor": "Run",
@@ -92,7 +104,7 @@
     "TestNG.TestngListeners.executor": "Run",
     "TestNG.getDataFromProperties.executor": "Run",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Testing/Projects/HDFCSmartBuyBDD",
+    "last_opened_file_path": "D:/Testing/Projects/InterviewQuestions",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -110,48 +122,9 @@
       <recent name="Cucumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Palindrome_Integer">
-    <configuration name="Palindrome_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaQuestions.Palindrome_Integer" />
-      <module name="InterviewQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="find_power_of_2_of_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaQuestions.find_power_of_2_of_number" />
-      <module name="InterviewQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="if_num_is_power_of_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaQuestions.if_num_is_power_of_2" />
-      <module name="InterviewQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="unique_characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.unique_characters" />
+  <component name="RunManager" selected="Application.no_of_element_greaterThan_UserNumber">
+    <configuration name="Integer_Duplicate_Elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Integer_Duplicate_Elements" />
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
@@ -163,12 +136,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="windowSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium.windowSwitch" />
+    <configuration name="Merge_two_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Merge_two_arrays" />
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Selenium.*" />
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Occurrence_of_each_character" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Occurrence_of_each_character" />
+      <module name="InterviewQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="max_value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.max_value" />
+      <module name="InterviewQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="no_of_element_greaterThan_UserNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.no_of_element_greaterThan_UserNumber" />
+      <module name="InterviewQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palindrome_Integer" />
-        <item itemvalue="Application.windowSwitch" />
-        <item itemvalue="Application.find_power_of_2_of_number" />
-        <item itemvalue="Application.if_num_is_power_of_2" />
-        <item itemvalue="Application.unique_characters" />
+        <item itemvalue="Application.no_of_element_greaterThan_UserNumber" />
+        <item itemvalue="Application.Occurrence_of_each_character" />
+        <item itemvalue="Application.Merge_two_arrays" />
+        <item itemvalue="Application.max_value" />
+        <item itemvalue="Application.Integer_Duplicate_Elements" />
       </list>
     </recent_temporary>
   </component>

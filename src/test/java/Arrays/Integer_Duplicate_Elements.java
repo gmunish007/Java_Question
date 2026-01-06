@@ -1,5 +1,7 @@
 package Arrays;
 
+// return duplicate numbers from array
+
 public class Integer_Duplicate_Elements {
     public static void main(String[] args) {
         int[] num = {1, 3, 2, 5, 3, 7, 8, 5};

@@ -1,10 +1,13 @@
 package Arrays;
 
+// occurrence of each character in String
+
 public class Occurrence_of_each_character {
     public static void main(String[] args) {
         String str = "assdgfdsasAS";
         char c[] = str.toCharArray();
         boolean[] b = new boolean[str.length()];
+
         for (int i = 0; i < c.length; i++) {
             if(b[i]) continue;
             int count =1;
@@ -17,5 +20,4 @@ public class Occurrence_of_each_character {
             System.out.println(c[i]+":"+count);
         }
     }
-
 }

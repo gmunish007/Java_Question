@@ -6,8 +6,8 @@ import org.testng.annotations.DataProvider;
 
 @CucumberOptions(features = "src/test/java/Cucumber"
 ,glue="Cucumber"
-,plugin={"html:target/cucumber.html"+
-"rerun:target/failed_scenario.txt"}) //this will send data for all failed testCases in given path, then execute them from failed class runner file
+//this will send data for all failed testCases in given path,then execute them from failed class runner file
+,plugin={"html:target/cucumber.html"+ "rerun:target/failed_scenario.txt"})
 public class Runner extends AbstractTestNGCucumberTests {
 
     // parallel testing
