@@ -5,29 +5,15 @@ import java.util.Scanner;
 // search for a number in Array and print its index and the number
 
 public class Search_for_num_and_print_its_index {
-    public static void marks() {
-
-        Scanner sc = new Scanner(System.in);
-        // input array size
-        System.out.print("input array Size: ");
-        int arrSize = sc.nextInt();
-        int[] arrVal = new int[arrSize];
-        int arrLen = arrVal.length;
-
+    public static void main(String[] args) {
         boolean flag = false; //number not found in array
 
-        //input array values
-        for (int i = 0; i < arrLen; i++) {
-            arrVal[i] = sc.nextInt();
-        }
+        int[] arr = {1, 3, 5, 6, 2};
+        int findNum = 0;
 
-        //input number to find from array
-        System.out.print("Input num to find: ");
-        int findNum = sc.nextInt();
-
-        for (int i = 0; i < arrLen; i++) {
-            if (findNum == arrVal[i]) {
-                System.out.println(arrVal[i] + " is at index:" + i);
+        for (int i = 0; i < arr.length; i++) {
+            if (findNum == arr[i]) {
+                System.out.println(arr[i] + " is at index:" + i);
                 flag = true;
                 break;
             }
@@ -35,9 +21,5 @@ public class Search_for_num_and_print_its_index {
         if (flag == false) {
             System.out.println("not found.");
         }
-    }
-
-    public static void main(String[] args) {
-        marks();
     }
 }

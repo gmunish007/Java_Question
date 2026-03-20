@@ -19,6 +19,7 @@ public class Sum_of_two_Arrays {
         int [] arr2={5,6,7,8};
 
         int newArr[]=sumArr(arr1, arr2);
+
         for(int i=0; i<newArr.length; i++){
             System.out.print(newArr[i]+" ");
         }

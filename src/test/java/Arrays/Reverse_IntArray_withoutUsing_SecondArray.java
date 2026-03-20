@@ -6,17 +6,12 @@ public class Reverse_IntArray_withoutUsing_SecondArray {
         int i = 0, j = num.length - 1, temp=0;
 
         // same implementation can be done using while loop
-//        while(i<j){
-//            int temp = num[i];
-//            num[i] = num[j];
-//            num[j] = temp;
-//            i++;
-//            j--;
-//        }
-        for (; i < j; i++, j--) {
+        while(i<j){
             temp = num[i];
             num[i] = num[j];
             num[j] = temp;
+            i++;
+            j--;
         }
         return num;
     }

@@ -28,8 +28,9 @@ public class brokenLinks {
 		js.executeScript("window.scrollTo(0, 1800)");
 
 		// Taking page screenshot
-		File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-		//FileUtils.copyFile(src, new File("C:\\\\Users\\\\MU20261457\\\\Desktop\\\\screenshot.png"));
+		TakesScreenshot ts = (TakesScreenshot) driver;
+		File srcFile = ts.getScreenshotAs(OutputType.FILE);
+		//FileUtils.copyFile(srcFile, new File("C:\\\\Users\\\\MU20261457\\\\Desktop\\\\screenshot.png"));
 
 		// Get href value of all links from the footer section
 		List<WebElement> linkLst = driver.findElements(By.cssSelector("li[class='gf-li'] a"));

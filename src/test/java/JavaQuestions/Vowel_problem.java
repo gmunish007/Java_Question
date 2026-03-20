@@ -9,7 +9,6 @@ public class Vowel_problem {
             if (str.charAt(i) == vowels[i]) {
                 System.out.println("found vowel "+str.charAt(i));
             }
-
         }
     }
 }

@@ -14,10 +14,10 @@ public class StringPalindrome {
 
     public static void main(String[] args) {
 
-        String originalStr = "1234301";
+        String originalStr = "aba";
         String reverseStr = stringPal(originalStr);
 
-        if (originalStr.equalsIgnoreCase(reverseStr)) {
+        if (originalStr.equals(reverseStr)) {
             System.out.println("String is palindrome!");
         } else {
             System.out.println("String is not palindrome!");

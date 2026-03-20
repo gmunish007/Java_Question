@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49ae9d8e-b748-4694-a418-15bbdaa04ffc" name="Changes" comment="" />
+    <list default="true" id="49ae9d8e-b748-4694-a418-15bbdaa04ffc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/Palindrome_Substrings_count.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Arrays/Palindrome_Substrings_count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/Reverse_IntArray_using_SecondArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Arrays/Reverse_IntArray_using_SecondArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/Reverse_IntArray_withoutUsing_SecondArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Arrays/Reverse_IntArray_withoutUsing_SecondArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/Search_for_num_and_print_its_index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Arrays/Search_for_num_and_print_its_index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/StringReverseWithNoSpaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Arrays/StringReverseWithNoSpaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/StringReverseWithSpaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Arrays/StringReverseWithSpaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/Sum_of_twoNum_equal_to_userNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Arrays/Sum_of_twoNum_equal_to_userNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/Sum_of_two_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Arrays/Sum_of_two_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Arrays/unique_characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Arrays/unique_characters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Cucumber/DataTable.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Cucumber/DataTable.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Cucumber/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Cucumber/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JavaQuestions/First_Non_Repeating_Char_in_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JavaQuestions/First_Non_Repeating_Char_in_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JavaQuestions/ShiftCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JavaQuestions/ShiftCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JavaQuestions/StringPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JavaQuestions/StringPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JavaQuestions/Vowel_problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JavaQuestions/Vowel_problem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Selenium/AutoSuggestiveDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Selenium/AutoSuggestiveDropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Selenium/brokenLinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Selenium/brokenLinks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestNg/IRetryAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestNg/IRetryAnalyzer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,8 +37,11 @@
       </list>
     </option>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/test/java/DatabaseConnection.java" root0="SKIP_INSPECTION" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
@@ -27,89 +50,114 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="31HRsMlM5TKwbiuCXHvo82cP94k" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AnagramChecker.executor": "Run",
-    "Application.Duplicate_Elements.executor": "Run",
-    "Application.Each_String_Reverse.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.First_Non_Repeating_Char_in_String.executor": "Run",
-    "Application.FreqOfEachCharInString.executor": "Run",
-    "Application.Input_arraySize_and_value_from_user.executor": "Run",
-    "Application.Int_to_String.executor": "Run",
-    "Application.Integer_Duplicate_Elements.executor": "Run",
-    "Application.Merge_two_arrays.executor": "Run",
-    "Application.Occurrence_of_each_character.executor": "Run",
-    "Application.Palindrome_Integer.executor": "Run",
-    "Application.Palindrome_Substrings_count.executor": "Run",
-    "Application.Permutation_of_String.executor": "Run",
-    "Application.PrimeNumber.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.ReverseArray_using_SecondArray.executor": "Run",
-    "Application.ReverseArray_withoutUsing_SecondArray.executor": "Run",
-    "Application.Reverse_IntArray_withoutUsing_SecondArray.executor": "Run",
-    "Application.RotateArray_by_K_steps.executor": "Run",
-    "Application.RotateArray_by_K_steps_using_thirdArray.executor": "Run",
-    "Application.Sample.executor": "Run",
-    "Application.Search_for_num_and_print_its_index.executor": "Run",
-    "Application.Second_Smallest_And_Largest_Number.executor": "Run",
-    "Application.Second_Smallest_And_Second_Largest_Number.executor": "Run",
-    "Application.Second_largest_integer.executor": "Run",
-    "Application.Second_largest_value.executor": "Run",
-    "Application.ShiftCharacters.executor": "Run",
-    "Application.Smallest_Number.executor": "Run",
-    "Application.StringArray_to_charArray.executor": "Run",
-    "Application.StringPalindrome.executor": "Run",
-    "Application.StringReverse.executor": "Run",
-    "Application.StringReverseWithNoSpaces.executor": "Run",
-    "Application.StringReverseWithSpaces.executor": "Run",
-    "Application.String_DuplicateElements.executor": "Run",
-    "Application.String_to_charArray.executor": "Run",
-    "Application.Sum_of_all_elements_in_Array.executor": "Run",
-    "Application.Sum_of_twoNum_equal_to_userNumber.executor": "Run",
-    "Application.Sum_of_two_Arrays.executor": "Run",
-    "Application.SwapTwoNumWithoutThirdVar.executor": "Run",
-    "Application.Vowel_problem.executor": "Run",
-    "Application.actionClass.executor": "Run",
-    "Application.filter.executor": "Run",
-    "Application.find_power_of_2_of_number.executor": "Run",
-    "Application.if_num_is_power_of_2.executor": "Run",
-    "Application.max_value.executor": "Run",
-    "Application.no_of_element_greaterThan_UserNumber.executor": "Run",
-    "Application.print_index_for_given_number.executor": "Run",
-    "Application.swap_num_position_inArray.executor": "Run",
-    "Application.unique_characters.executor": "Run",
-    "Application.windowSwitch.executor": "Run",
-    "Cucumber Java.Feature: DataTable.executor": "Run",
-    "Cucumber Java.Feature: login.executor": "Run",
-    "Cucumber Java.Scenario: Testing login page.executor": "Run",
-    "Cucumber Java.Scenario: Using Data Tables in feature file.executor": "Run",
-    "Cucumber Java.Scenario: Using Example in feature file.executor": "Run",
-    "Maven.InterviewQuestions [package].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.CrossBrowserTestingWithDataProvider.executor": "Run",
-    "TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/CrossBrowserWithParameter.xml.executor": "Run",
-    "TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/DataProviderTestng.xml.executor": "Run",
-    "TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/Listeners.xml.executor": "Run",
-    "TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/ParametersTestng.xml.executor": "Run",
-    "TestNG.D:/Testing/Projects/InterviewQuestions/testng.xml.executor": "Run",
-    "TestNG.ExtentReport.executor": "Run",
-    "TestNG.FailedTestNG.executor": "Run",
-    "TestNG.Runner.executor": "Run",
-    "TestNG.TestNgDepends.priyanka.executor": "Run",
-    "TestNG.TestngListeners.executor": "Run",
-    "TestNG.getDataFromProperties.executor": "Run",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Testing/Projects/InterviewQuestions",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnagramChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BokenLinks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Check_if_String_contains_only_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompressString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_of_occurrence__of_each_word_inString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Duplicate_Elements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Each_String_Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exception_Handling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Expand_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.First_Non_Repeating_Char_in_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FreqOfEachCharInString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Functional_Interface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Input_arraySize_and_value_from_user.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Int_to_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Integer_Duplicate_Elements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge_two_arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Missing_num_in_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Move_all_zeros_to_end_of_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Move_one_num_to_left.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Occurrence_of_each_character.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome_Integer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome_Substrings_count.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Permutation_of_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Remove_special_chars_from_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray_using_SecondArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray_withoutUsing_SecondArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_IntArray_using_SecondArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_IntArray_withoutUsing_SecondArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_words_in_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArray_by_K_steps.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArray_by_K_steps_using_thirdArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Search_for_num_and_print_its_index.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Second_Smallest_And_Largest_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Second_Smallest_And_Second_Largest_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Second_largest_integer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Second_largest_value.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Second_most_repeated_char.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShiftCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Smallest_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sort_int_array_without_sortFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringArray_to_charArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringReverseWithNoSpaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringReverseWithSpaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_DuplicateElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_to_charArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum_of_all_elements_in_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum_of_digits_of_Integer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum_of_twoNum_equal_to_userNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum_of_two_Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapTwoNumWithoutThirdVar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap_first_and_last_char_in_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap_first_and_last_digit_in_Int.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vowel_problem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.actionClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.filter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.find_power_of_2_of_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.if_num_is_power_of_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.max_value.executor&quot;: &quot;Run&quot;,
+    &quot;Application.no_of_element_greaterThan_UserNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.print_index_for_given_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.swap_num_position_inArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.unique_characters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.windowSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: DataTable.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: login.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Testing login page.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Using Data Tables in feature file.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Using Example in feature file.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.InterviewQuestions [package].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.CrossBrowserTestingWithDataProvider.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/CrossBrowserWithParameter.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/DataProviderTestng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/Listeners.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.D:/Testing/Projects/InterviewQuestions/src/test/java/TestNg/ParametersTestng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.D:/Testing/Projects/InterviewQuestions/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ExtentReport.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FailedTestNG.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestNgDepends.priyanka.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestngListeners.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.getDataFromProperties.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Munish/Testing/Projects/InterviewQuestions&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Testing\Projects\InterviewQuestions\src\test\java\TestNg" />
@@ -122,9 +170,26 @@
       <recent name="Cucumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.no_of_element_greaterThan_UserNumber">
-    <configuration name="Integer_Duplicate_Elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Integer_Duplicate_Elements" />
+  <component name="RunManager" selected="Application.Count_of_occurrence__of_each_word_inString">
+    <configuration name="CompressString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../Softwares/openjdk-22.0.1_windows-x64_bin/jdk-22.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="JavaQuestions.CompressString" />
+      <module name="InterviewQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Count_of_occurrence__of_each_word_inString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../Softwares/openjdk-22.0.1_windows-x64_bin/jdk-22.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Arrays.Count_of_occurrence__of_each_word_inString" />
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
@@ -136,12 +201,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge_two_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Merge_two_arrays" />
+    <configuration name="Move_one_num_to_left" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../Softwares/openjdk-22.0.1_windows-x64_bin/jdk-22.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="JavaQuestions.Move_one_num_to_left" />
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="JavaQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,6 +217,8 @@
       </method>
     </configuration>
     <configuration name="Occurrence_of_each_character" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../Softwares/openjdk-22.0.1_windows-x64_bin/jdk-22.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Arrays.Occurrence_of_each_character" />
       <module name="InterviewQuestions" />
       <extension name="coverage">
@@ -162,8 +231,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="max_value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.max_value" />
+    <configuration name="Second_most_repeated_char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../Softwares/openjdk-22.0.1_windows-x64_bin/jdk-22.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Arrays.Second_most_repeated_char" />
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
@@ -175,28 +246,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="no_of_element_greaterThan_UserNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.no_of_element_greaterThan_UserNumber" />
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../Softwares/openjdk-22.0.1_windows-x64_bin/jdk-22.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="InterviewQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Occurrence_of_each_character" />
+      <item itemvalue="Application.CompressString" />
+      <item itemvalue="Application.Count_of_occurrence__of_each_word_inString" />
+      <item itemvalue="Application.Move_one_num_to_left" />
+      <item itemvalue="Application.Second_most_repeated_char" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.no_of_element_greaterThan_UserNumber" />
+        <item itemvalue="Application.Count_of_occurrence__of_each_word_inString" />
+        <item itemvalue="Application.Second_most_repeated_char" />
         <item itemvalue="Application.Occurrence_of_each_character" />
-        <item itemvalue="Application.Merge_two_arrays" />
-        <item itemvalue="Application.max_value" />
-        <item itemvalue="Application.Integer_Duplicate_Elements" />
+        <item itemvalue="Application.Move_one_num_to_left" />
+        <item itemvalue="Application.CompressString" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -208,5 +288,12 @@
       <updated>1755179218762</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:cucumber-java" />
+    <option featureType="dependencySupport" implementationName="java:org.testng:testng" />
+    <option featureType="dependencySupport" implementationName="java:io.reactivex.rxjava3:rxjava" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
   </component>
 </project>

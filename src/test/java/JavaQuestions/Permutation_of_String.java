@@ -1,5 +1,7 @@
 package JavaQuestions;
 
+//abc => abc, bca, acb, bac
+
 public class Permutation_of_String {
     public static void permutation(String str, String prefix){
         if(str.length()==0){

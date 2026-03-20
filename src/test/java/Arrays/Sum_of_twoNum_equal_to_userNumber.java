@@ -14,7 +14,7 @@ public class Sum_of_twoNum_equal_to_userNumber {
             }
         }
         for(int i=0; i<ans.length; i++){
-            System.out.println(ans[i]);
+            System.out.print(ans[i]+" ");
         }
     }
 

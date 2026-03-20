@@ -1,5 +1,6 @@
 package Cucumber;
 
+import io.cucumber.java.PendingException;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -41,6 +42,12 @@ public class test_login {
 
         // print munish without using for()
         //System.out.println(dataSet.get(0).get(0));
+    }
+
+    @Given("user enters username {string} and password {string} on page without using Data Table or Example")
+    public void userEntersUsernameAndPasswordOnPageWithoutUsingDataTableOrExample(String arg0, String arg1) {
+        // Write code here that turns the phrase above into concrete actions
+        throw new PendingException();
     }
 }
 

@@ -22,7 +22,7 @@ public class actionClass {
 		// clicking input box
 		// press shift key
 		// input mouse keyword in capital letters
-		// select all characters by double clicking on it
+		// select all characters by double-clicking on it
 
 		a.moveToElement(driver.findElement(By.id("twotabsearchtextbox"))).click().keyDown(Keys.SHIFT).sendKeys("mouse")
 				.doubleClick().build().perform();

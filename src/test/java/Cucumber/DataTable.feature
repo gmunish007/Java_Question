@@ -9,7 +9,7 @@ Feature: Using Data Table in feature file
 
 
 #  Scenario Outline: Using Example in feature file
-#  When User is on login page with <username> and "<password>" using Examples
+#  When User is on login page with "<username>" and "<password>" using Examples
 #
 #  Examples:
 #  | username  | password  |

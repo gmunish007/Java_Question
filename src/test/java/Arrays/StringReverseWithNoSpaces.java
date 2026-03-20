@@ -1,6 +1,9 @@
 package Arrays;// String reverse by removing spaces between them
 // 1. Remove spaces between them
 // 2. Reverse the string
+//input abc bca
+//output: acbcba
+
 
 public class StringReverseWithNoSpaces {
 
@@ -19,7 +22,7 @@ public class StringReverseWithNoSpaces {
     }
 
     public static void main(String[] args) {
-        String str = removeSpace("hello workd");
+        String str = removeSpace("abc wer");
         System.out.println("String after no spaces:" + str);
     }
 }
